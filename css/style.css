@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+li {
+  display: inline;
+  padding: 0 10px;
+}
+
+img {
+  width: 32px;
+  height: relative;
+}
+
+.rounded {
+  border-radius: 50%;
+}
+
+.google-alphabet {
+  width: 22.5%;
+}
+
+#main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* width: 50%;
+  margin: 0 auto; */
+}
